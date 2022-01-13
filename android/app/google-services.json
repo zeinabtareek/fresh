@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "554723483850",
+    "project_id": "freshin-d12dd",
+    "storage_bucket": "freshin-d12dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554723483850:android:3290268fda3fc5e5b81433",
+        "android_client_info": {
+          "package_name": "com.example.fresh_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554723483850-atoa83nf8jh4b7uu2bftpjp990c9v90t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fresh_in",
+            "certificate_hash": "f6ab5d6a15ee72e6b9f55af28950c9e968b0ed02"
+          }
+        },
+        {
+          "client_id": "554723483850-7kluolpe0n4djn93cvioos4egi89fjv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB5RMbdSj8g0qzmTRK_5EpCthAGU3sIvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554723483850-7kluolpe0n4djn93cvioos4egi89fjv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
